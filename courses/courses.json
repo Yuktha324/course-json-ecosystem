@@ -58,5 +58,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+  {
+    " "id": 7,
+    "platform": "coding",
+    "free_course": "yes",
+    "course_name": "java programing",
+    "link": "https://www.programiz.com/java-programming/online-compiler/",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
   }
 ]
