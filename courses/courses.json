@@ -60,13 +60,13 @@
     "certification": "paid"
   },
    {
-    "id": 10,
-    "platform": "Udemy",
-    "free_course": "no",
-    "course_name": "Complete web development bootcamp",
-    "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286980#content",
+    "id": 7,
+    "platform": "freeCodeCamp",
+    "free_course": "yes",
+    "course_name": "coding skills, from HTML and CSS to JavaScript, Python, and more.",
+    "link": "https://www.freecodecamp.org/",
     "difficulty": "beginner",
     "module_number": 12,
-    "certification": "paid"
+    "certification": "free"
   }
 ]
