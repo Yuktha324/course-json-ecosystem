@@ -257,5 +257,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-     }
+     },
+      {
+  "id": 23,
+    "platform": "unacademy",
+    "free_course": "yes",
+    "course_name": "AI",
+    "link": "https://unacademy.com/course/complete-course-on-machine-learning-part-i/2RALHJ3V",
+    "difficulty": "beginner",
+    "module_number":3,
+    "certification": "Free"
+    }
 ]
